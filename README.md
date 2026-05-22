@@ -41,3 +41,4 @@ Cada fase concluída traz um `README.md` listando seus exercícios.
 - [LinkedIn](https://www.linkedin.com/in/antonioqueirozjr)
 - [GitHub](https://github.com/antonioqueirozjr)
 - [Portfolio API — PawsManager](https://pawsapi.antonioqueiroz.dev/swagger-ui/index.html)
+- [Portfolio](https://antonioqueiroz.dev)
