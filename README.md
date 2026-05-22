@@ -6,10 +6,10 @@ Exercícios diários de Java Core focados em fixação profunda de conceitos, co
 
 ```
 src/
-├── 01-for-acumulador/         # Loops, somas, contadores               (6 exercícios)
-├── 02-comparacao-elementos/   # Busca de maior, menor, segundo maior   (6 exercícios)
-├── 03-arraylist-strings/      # Manipulação de listas e strings        (6 exercícios)
-└── 04-hashmap/                # Iteração, lógica com Map, internals    (8 + 19 extras)
+├── a-for-acumulador/         # Loops, somas, contadores               (6 exercícios)
+├── b-comparacao-elementos/   # Busca de maior, menor, segundo maior   (6 exercícios)
+├── c-arraylist-strings/      # Manipulação de listas e strings        (6 exercícios)
+└── d-hashmap/                # Iteração, lógica com Map, internals    (8 + 19 extras)
     ├── aula/                  # Guia teórico de referência
     └── extras/                # Exercícios de aprofundamento
 
@@ -20,9 +20,9 @@ Cada fase concluída traz um `README.md` listando seus exercícios.
 
 ### Próximas fases (em breve)
 
-- `05-streams/` — filter, map, collect, reduce
-- `06-dois-ponteiros/` — dois ponteiros, ordenação
-- `07-pilha-fila/` — LIFO, FIFO, casos de uso
+- `e-streams/` — filter, map, collect, reduce
+- `f-dois-ponteiros/` — dois ponteiros, ordenação
+- `g-pilha-fila/` — LIFO, FIFO, casos de uso
 
 ## Abordagem
 
