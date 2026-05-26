@@ -1,4 +1,4 @@
-package a_for_acumulador.extras.e01;
+package a_for_acumulador.revisao.e01;
 
 public class Segundomaiornumero {
     static void main() {
